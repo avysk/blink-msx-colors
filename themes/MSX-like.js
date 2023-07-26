@@ -1,4 +1,5 @@
 // The colors are taken from https://paulwratt.github.io/programmers-palettes/HW-MSX/HW-MSX-palettes.html
+//
 
 const msx = {
   msx1: "#000000", // black
