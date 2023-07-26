@@ -1,2 +1,6 @@
 # blink-msx-colors
-MSX-like colorscheme for Blink terminal
+
+[MSX](https://en.wikipedia.org/wiki/MSX)-like colorscheme for
+[Blink shell.](https://blink.sh/)
+
+++Not ready, unusable++
