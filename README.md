@@ -28,7 +28,7 @@ Now new Blink terminals will use the new theme.
 
 ## License
 
-[BSD 2-clause](LICENSE.md)
+[BSD 2-clause](LICENSE)
 
 ## Acknowledgements
 
