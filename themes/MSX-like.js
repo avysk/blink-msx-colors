@@ -23,7 +23,7 @@ t.prefs_.set('color-palette-overrides', [
   msx.msx6, // red => dark red
   msx.msx12, // green => dark green
   msx.msx10, // yellow => dark yellow
-  msx.msx1, // blue => black
+  msx.msx7, // blue => cyan
   msx.msx8, // magenta => medium red
   msx.msx2, // cyan => medium green
   msx.msx14, // white => gray
@@ -33,7 +33,7 @@ t.prefs_.set('color-palette-overrides', [
   msx.msx11, // light yellow => light yellow
   msx.msx5, // light blue => light blue
   msx.msx13, // light magenta => magenta
-  msx.msx7, // light cyan => cyan
+  msx.msx1, // light cyan => black
   msx.msx15 // light white => white
 ]);
 
