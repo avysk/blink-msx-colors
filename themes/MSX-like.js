@@ -28,11 +28,11 @@ t.prefs_.set('color-palette-overrides', [
   msx.msx8, // magenta => medium red
   msx.msx2, // cyan => medium green
   msx.msx14, // white => gray
-  msx.ms5, // light black => light blue
+  msx.msx5, // light black => light blue
   msx.msx9, // light red => light red
   msx.msx3, // light green => light green
   msx.msx11, // light yellow => light yellow
-  msx.msx5, // light blue => gray (duplicate!)
+  msx.msx14, // light blue => gray (duplicate!)
   msx.msx13, // light magenta => magenta
   msx.msx7, // light cyan => cyan
   msx.msx15 // light white => white
