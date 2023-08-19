@@ -1,4 +1,4 @@
-# blink-msx-colors
+ # blink-msx-colors
 
 [MSX](https://en.wikipedia.org/wiki/MSX)-like colorscheme for
 [Blink shell.](https://blink.sh/)
@@ -23,6 +23,8 @@
 Now new Blink terminals will use the new theme.
 
 ## Appearance
+
+The screenshot is **obsolete**. Light blue and gray are swapped.
 
 ![Screenshot](screenshots/MSX-like.png)
 
